@@ -1,2 +1,2 @@
 Data folder contains thousands of files. github is allowing only 100 at a time. It is very difficult and time consuming to upload all fies. 
-could you please visit the [link](https://drive.google.com/drive/folders/1JCv0MQYS0PuIqdPfLzg62BMzQQ6QOnGX?usp=sharing) to access the data. "
+could you please visit the link to access the data. "https://drive.google.com/drive/folders/1JCv0MQYS0PuIqdPfLzg62BMzQQ6QOnGX?usp=sharing"
